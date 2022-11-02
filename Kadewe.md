@@ -1,5 +1,6 @@
-[Customer Data Analyst at KADEWE] (https://www.stepstone.de/stellenangebote--Customer-Data-Analyst-m-w-d-Berlin-THE-KADEWE-GROUP--8821417-inline.html)
-      ## Requirements
+[Customer Data Analyst at KADEWE](https://www.stepstone.de/stellenangebote--Customer-Data-Analyst-m-w-d-Berlin-THE-KADEWE-GROUP--8821417-inline.html)
+
+## Requirements
       * business administration or business information systems studies or comparable qualification
       * several years of experience in the field of customer data and analytics as well as customer relationship management
       * good analytical skills and strong experience with data analysis tools
